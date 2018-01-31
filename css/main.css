@@ -172,10 +172,10 @@ a:not([href]):not([tabindex]):hover {
 }
 .menu-bg .menu-button:hover {
   cursor: pointer;
-  color: #4676fa;
+  color: #81E779;
 }
 .menu-bg .logo-menu a {
-  color: #4676fa;
+  color: #81E779;
 }
 .menu-button:hover {
   cursor: pointer;
