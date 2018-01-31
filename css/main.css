@@ -48,9 +48,9 @@ a {
   border-radius: 4px;
 }
 .btn-common:hover {
-  color: #711677;
+  color: #ffffff;
   background-color: transparent;
-  border: 2px solid #711677;
+  border: 2px solid #ffffff;
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
