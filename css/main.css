@@ -620,7 +620,7 @@ a:not([href]):not([tabindex]):hover {
    Blog 
    ========================================================================== */
 #blog .blog-item-wrapper {
-  background: #e00209;
+  background: #fff;
   border-radius: 0px;
   margin-bottom: 30px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
@@ -748,7 +748,7 @@ a:not([href]):not([tabindex]):hover {
   width: 100%;
 }
 #subscribe form input:focus {
-  border: 1px solid #4676fa;
+  border: 1px solid #81E779;
 }
 #subscribe .sub_btn {
   border: none;
@@ -764,7 +764,7 @@ a:not([href]):not([tabindex]):hover {
   color: #fff;
   top: 0;
   height: 50px;
-  background: #4676fa;
+  background: #81E779;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;
@@ -775,7 +775,7 @@ a:not([href]):not([tabindex]):hover {
    Footer Style
    ========================================================================== */
 footer {
-  background: #333;
+  background: #81E779;
   padding: 60px 0px 30px;
   text-align: center;
 }
@@ -787,7 +787,7 @@ footer {
   color: #fff;
 }
 .site-info p a:hover {
-  color: #4676fa;
+  color: #81E779;
 }
 .social-icons {
   margin-bottom: 20px;
@@ -884,7 +884,7 @@ footer {
   text-decoration: none;
   color: #fff;
   font-size: 12px;
-  background: #4676fa;
+  background: #81E779;
   text-transform: uppercase;
   border: none;
   padding: 7px 16px;
@@ -914,7 +914,7 @@ footer {
   font-size: 14px;
   text-align: center;
   border-radius: 4px;
-  background-color: #4676fa;
+  background-color: #81E779;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -941,7 +941,7 @@ footer {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #4676fa;
+  background-color: #81E779;
   opacity: 0.6;
   position: absolute;
   top: 0;
