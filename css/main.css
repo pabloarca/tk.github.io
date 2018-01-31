@@ -367,7 +367,7 @@ a:not([href]):not([tabindex]):hover {
   width: 60px;
   height: 60px;
   text-align: center;
-  border: 1px solid #4676fa;
+  border: 1px solid #81E779;
   display: inline-block;
   border-radius: 5px;
   margin-top: 10px;
@@ -379,7 +379,7 @@ a:not([href]):not([tabindex]):hover {
 .item-boxes .icon i {
   font-size: 30px;
   line-height: 60px;
-  color: #4676fa;
+  color: #81E779;
 }
 .item-boxes h4 {
   font-size: 20px;
@@ -392,7 +392,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #services {
   position: relative;
-  background: #ed8787;
+  background: #f2f2f2;
 }
 /* ==========================================================================
    Features Section Style
