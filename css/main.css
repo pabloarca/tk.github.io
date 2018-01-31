@@ -40,9 +40,10 @@ a {
   box-shadow: none;
   outline: none;
 }
+/* BOTONES*/
 .btn-common {
-  border: 2px solid #333322;
-  background-color: #333322;
+  border: 2px solid #81E779;
+  background-color: #81E779;
   position: relative;
   z-index: 1;
   border-radius: 4px;
@@ -115,6 +116,8 @@ a:not([href]):not([tabindex]):hover {
   margin-bottom: 40px;
   text-align: center;
 }
+
+/*TITULOS*/
 .section-header .section-title {
   font-size: 42px;
   margin-top: 0;
