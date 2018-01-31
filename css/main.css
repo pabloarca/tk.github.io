@@ -471,7 +471,7 @@ a:not([href]):not([tabindex]):hover {
    EQUIPO
    ========================================================================== */
 #equipo .blog-item-wrapper {
-  background: #fff;
+  background: ##81E779;
   border-radius: 0px;
   margin-bottom: 30px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
@@ -620,7 +620,7 @@ a:not([href]):not([tabindex]):hover {
    Blog 
    ========================================================================== */
 #blog .blog-item-wrapper {
-  background: #efbd1a;
+  background: #e00209;
   border-radius: 0px;
   margin-bottom: 30px;
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
