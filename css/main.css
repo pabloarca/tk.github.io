@@ -79,6 +79,8 @@ a {
 .clear {
   clear: both;
 }
+
+/*TITULOS*/
 h1,
 h2,
 h3,
@@ -117,7 +119,7 @@ a:not([href]):not([tabindex]):hover {
   text-align: center;
 }
 
-/*TITULOS*/
+
 .section-header .section-title {
   font-size: 42px;
   margin-top: 0;
@@ -127,7 +129,7 @@ a:not([href]):not([tabindex]):hover {
   position: relative;
 }
 .section-header .section-title span {
-  color: #81E779;
+  color: #d30426;
 }
 .section-header .section-subtitle {
   margin-top: 15px;
