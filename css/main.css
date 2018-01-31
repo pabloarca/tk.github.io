@@ -289,7 +289,7 @@ a:not([href]):not([tabindex]):hover {
   text-transform: uppercase;
 }
 #slider-area p {
-  color: #ffffff;
+  color: #e00209;
   font-size: 14px;
   font-weight: 400;
 }
