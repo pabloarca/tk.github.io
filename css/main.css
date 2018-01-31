@@ -14,7 +14,7 @@ p {
 }
 a:hover,
 a:focus {
-  color: #4676fa;
+  color: #81E779;
 }
 a {
   -webkit-transition: all 0.2s linear;
@@ -41,8 +41,8 @@ a {
   outline: none;
 }
 .btn-common {
-  border: 2px solid #4676fa;
-  background-color: #4676fa;
+  border: 2px solid #81E779;
+  background-color: #81E779;
   position: relative;
   z-index: 1;
   border-radius: 4px;
@@ -50,7 +50,7 @@ a {
 .btn-common:hover {
   color: #4676fa;
   background-color: transparent;
-  border: 2px solid #4676fa;
+  border: 2px solid #81E779;
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
@@ -64,7 +64,7 @@ a {
 .btn-border:hover {
   border: 2px solid #fff;
   color: #fff;
-  background-color: #4676fa;
+  background-color: #81E779;
 }
 .btn-lg {
   padding: 14px 33px;
@@ -105,7 +105,7 @@ a:not([href]):not([tabindex]) {
 }
 a:not([href]):not([tabindex]):focus,
 a:not([href]):not([tabindex]):hover {
-  color: #4676fa;
+  color: #81E779;
 }
 .section {
   padding: 80px 0;
@@ -120,11 +120,11 @@ a:not([href]):not([tabindex]):hover {
   margin-top: 0;
   text-transform: uppercase;
   font-weight: 100;
-  color: #0d3559;
+  color: #81E779;
   position: relative;
 }
 .section-header .section-title span {
-  color: #4676fa;
+  color: #81E779;
 }
 .section-header .section-subtitle {
   margin-top: 15px;
@@ -136,7 +136,7 @@ a:not([href]):not([tabindex]):hover {
   margin: auto;
   width: 70px;
   position: relative;
-  border-top: 2px solid #346afe;
+  border-top: 2px solid #81E779;
   margin-top: 15px;
 }
 .section-header .lines:before {
@@ -148,7 +148,7 @@ a:not([href]):not([tabindex]):hover {
   top: -10px;
   border: 4px solid #fff;
   border-radius: 50%;
-  background: #4676fa;
+  background: #81E779;
   left: 27px;
 }
 /* ==========================================================================
