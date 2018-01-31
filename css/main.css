@@ -289,7 +289,7 @@ a:not([href]):not([tabindex]):hover {
   text-transform: uppercase;
 }
 #slider-area p {
-  color: #e00209;
+  color: #fff;
   font-size: 14px;
   font-weight: 400;
 }
@@ -348,11 +348,11 @@ a:not([href]):not([tabindex]):hover {
   background: rgba(0, 0, 0, 0.7) !important;
 }
 /* ==========================================================================
-   About Section Style
+   About Section Style  / las diferentes secciones (caracteristicas, equipo, nuestros valores...)
    ========================================================================== */
 #about {
   position: relative;
-  background: #f2f2f2;
+  background: #ed0909;
 }
 .item-boxes {
   text-align: center;
@@ -367,7 +367,7 @@ a:not([href]):not([tabindex]):hover {
   width: 60px;
   height: 60px;
   text-align: center;
-  border: 1px solid #4676fa;
+  border: 1px solid #ea4848;
   display: inline-block;
   border-radius: 5px;
   margin-top: 10px;
@@ -392,7 +392,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #services {
   position: relative;
-  background: #f2f2f2;
+  background: #ed8787;
 }
 /* ==========================================================================
    Features Section Style
