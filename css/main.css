@@ -14,7 +14,7 @@ p {
 }
 a:hover,
 a:focus {
-  color: #81E779;
+  color: #4676fa;
 }
 a {
   -webkit-transition: all 0.2s linear;
@@ -41,16 +41,16 @@ a {
   outline: none;
 }
 .btn-common {
-  border: 2px solid #81E779;
-  background-color: #81E779;
+  border: 2px solid #4676fa;
+  background-color: #4676fa;
   position: relative;
   z-index: 1;
   border-radius: 4px;
 }
 .btn-common:hover {
-  color: #ffffff;
+  color: #4676fa;
   background-color: transparent;
-  border: 2px solid #ffffff;
+  border: 2px solid #4676fa;
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
