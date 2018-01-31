@@ -395,7 +395,7 @@ a:not([href]):not([tabindex]):hover {
   background: #f2f2f2;
 }
 /* ==========================================================================
-   Features Section Style
+   Estilo de la sección "nuestros valores"
    ========================================================================== */
 #features {
   background: #fff;
@@ -526,7 +526,7 @@ a:not([href]):not([tabindex]):hover {
   color: #999;
 }
 #equipo .blog-item-text .meta-tags span a:hover {
-  color: #4676fa;
+  color: #81E779;
 }
 #equipo .blog-item-text h3 {
   line-height: 26px;
@@ -538,7 +538,7 @@ a:not([href]):not([tabindex]):hover {
   color: #333;
 }
 #equipo .blog-item-text h3 a:hover {
-  color: #4676fa;
+  color: #81E799;
 }
 #equipo .blog-item-text p {
   line-height: 25px;
