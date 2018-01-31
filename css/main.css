@@ -41,16 +41,16 @@ a {
   outline: none;
 }
 .btn-common {
-  border: 2px solid #711677;
-  background-color: #711677;
+  border: 2px solid #81E779;
+  background-color: #81E779;
   position: relative;
   z-index: 1;
   border-radius: 4px;
 }
 .btn-common:hover {
-  color: #81E779;
+  color: #711677;
   background-color: transparent;
-  border: 2px solid #81E779;
+  border: 2px solid #711677;
   transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -webkit-transition: all 0.5s ease-in-out;
