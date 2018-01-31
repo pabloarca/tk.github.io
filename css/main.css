@@ -129,7 +129,7 @@ a:not([href]):not([tabindex]):hover {
   position: relative;
 }
 .section-header .section-title span {
-  color: #d30426;
+  color: #2abced;
 }
 .section-header .section-subtitle {
   margin-top: 15px;
