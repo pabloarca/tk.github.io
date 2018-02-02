@@ -4,7 +4,7 @@ body {
   font-family: 'Lato', sans-serif;
   color: #333;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: bold;
   background: #fff;
   overflow-x: hidden;
 }
@@ -88,7 +88,7 @@ h4,
 h5 {
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
-  font-weight: 100;
+  font-weight: bold;
   letter-spacing: 1px;
 }
 ul {
@@ -124,7 +124,7 @@ a:not([href]):not([tabindex]):hover {
   font-size: 42px;
   margin-top: 0;
   text-transform: uppercase;
-  font-weight: 100;
+  font-weight: bold;
   color: #81E779;
   position: relative;
 }
