@@ -7,7 +7,7 @@ $(document).ready(function(){
       url: 'send.php',
       data: $(this).serialize(),
       success: function(data){
-        $("#respuesta").slieDown();
+        $("#respuesta").slideDown();
         $("#respuesta").html(data);
       }
     });
