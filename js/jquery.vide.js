@@ -340,7 +340,7 @@
       transform: 'translate(-' + position.x + ', -' + position.y + ')',
 
       // Disable visibility, while loading
-      visibility: 'hidden',
+      visibility: 'visible',
       opacity: 0
     })
 
