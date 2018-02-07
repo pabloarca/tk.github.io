@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Huerto, Cultivar, Tecnología, Huerto vertical">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="author" content="Grayrids">
+    
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+    
+    <title>Nuestra misión</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/line-icons.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/owl.theme.css">
+    <link rel="stylesheet" href="css/nivo-lightbox.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/menu_sideslide.css">
+    <link rel="stylesheet" href="css/main.css">    
+    <link rel="stylesheet" href="css/responsive.css">
+
+  </head>
+  <!--MENU DESPLEGABLE-->
+  <body>
+      <div class="menu-wrap">
+        <nav class="menu navbar">
+          <div class="icon-list navbar-collapse">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="#video-area">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#services">Características</a>
+              </li>  
+              <li class="nav-item">
+                <a class="nav-link" href="#features">Nuestros valores</a>
+              </li>                    
+             <li class="nav-item">
+                <a class="nav-link" href="#equipo">Equipo</a>
+              </li>           
+              <li class="nav-item">
+                <a class="nav-link" href="#pricing">Tienda</a>
+              </li>     
+              <li class="nav-item">
+                <a class="nav-link" href="#blog">Blog</a>
+              </li>  
+              <li class="nav-item">
+                <a class="nav-link" href="#contact">Contacto</a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="#subscribe">Subscríbete</a>
+              </li>
+            </ul>
+          </div>
+        </nav> 
+        <button class="close-button" id="close-button"><i class="lnr lnr-cross"></i></button>
+      </div>      
+  	<!-- Header Section Start -->
+
+     
+    <!-- ENTRADA -->
+    
+    <section id="features" class="section" data-stellar-background-ratio="0.2">
+      <div class="section-header">          
+          
+          <p class="section-subtitle wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s">Términos y condiciones</p>
+       		 
+                             
+	  </div>
+     
+<article>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">                
+                                                              
+<p class="text-justify">1. Introducción
+Las presentes condiciones generales de uso de la página web, regulan los términos y condiciones de acceso y uso de www.direcciónweb.com, propiedad de 
+(indicar el nombre de la empresa o profesional propietario de el portal), con domicilio en (indicar) y con Código de Identificación Fiscal número (indicar), 
+en adelante, «la Empresa», que el usuario del Portal deberá de leer y aceptar para usar todos los servicios e información que se facilitan desde el portal.
+ El mero acceso y/o utilización del portal, de todos o parte de sus contenidos y/o servicios significa la plena aceptación de las presentes condiciones generales de uso. </p>
+
+<p class="text-justify">2. Condiciones de uso
+Las presentes condiciones generales de uso del portal regulan el acceso y la utilización del portal, incluyendo los contenidos y los servicios puestos a 
+disposición de los usuarios en y/o a través del portal, bien por el portal, bien por sus usuarios, bien por terceros. No obstante, el acceso y la utilización
+ de ciertos contenidos y/o servicios puede encontrarse sometido a determinadas condiciones específicas.</p>
+
+<p class="text-justify">3.   Modificaciones
+La empresa se reserva la facultad de modificar en cualquier momento las condiciones generales de uso del portal. En todo caso, se recomienda que consulte 
+periódicamente los presentes términos de uso del portal, ya que pueden ser modificados.</p>
+
+<p class="text-justify">4. Obligaciones del Usuario
+El usuario deberá respetar en todo momento los términos y condiciones establecidos en las presentes condiciones generales de uso del portal. De forma expresa 
+el usuario manifiesta que utilizará el portal de forma diligente y asumiendo cualquier responsabilidad que pudiera derivarse del incumplimiento de las normas.
+Así mismo, el usuario no podrá utilizar el portal para transmitir, almacenar, divulgar promover o distribuir datos o contenidos que sean portadores de virus o 
+cualquier otro código informático, archivos o programas diseñados para interrumpir, destruir o perjudicar el funcionamiento de cualquier programa o equipo informático 
+o de telecomunicaciones.</p>
+
+<p class="text-justify">5. Responsabilidad del portal
+El usuario conoce y acepta que el portal no otorga ninguna garantía de cualquier naturaleza, ya sea expresa o implícita, sobre los datos, contenidos, información y servicios 
+que se incorporan y ofrecen desde el Portal.
+Exceptuando los casos que la Ley imponga expresamente lo contrario, y exclusivamente con la medida y extensión en que lo imponga, el Portal no garantiza ni asume responsabilidad 
+alguna respecto a los posibles daños y perjuicios causados por el uso y utilización de la información, datos y servicios del Portal.
+En todo caso, el Portal excluye cualquier responsabilidad por los daños y perjuicios que puedan deberse a la información y/o servicios prestados o suministrados por terceros 
+diferentes de la Empresa. Toda responsabilidad será del tercero ya sea proveedor o colaborador.</p>
+
+<p class="text-justify">6. Propiedad intelectual e industrial
+Todos los contenidos, marcas, logos, dibujos, documentación, programas informáticos o cualquier otro elemento susceptible de protección por la legislación de propiedad intelectual 
+o industrial, que sean accesibles en el portal corresponden exclusivamente a la empresa o a sus legítimos titulares y quedan expresamente reservados todos los derechos sobre los 
+mismos. Queda expresamente prohibida la creación de enlaces de hipertexto (links) a cualquier elemento integrante de las páginas web del Portal sin la autorización de la empresa,
+ siempre que no sean a una página web del Portal que no requiera identificación o autenticación para su acceso, o el mismo esté restringido.
+En cualquier caso, el portal se reserva todos los derechos sobre los contenidos, información datos y servicios que ostente sobre los mismos. El portal no concede ninguna licencia
+ o autorización de uso al usuario sobre sus contenidos, datos o servicios, distinta de la que expresamente se detalle en las presentes condiciones generales de uso del portal.</p>
+
+<p class="text-justify">7. Legislación aplicable, jurisdicción competente y notificaciones
+Las presentes condiciones se rigen y se interpretan de acuerdo con las Leyes de España. Para cualquier reclamación serán competentes los juzgados y tribunales de (indicar la ciudad).
+ Todas las notificaciones, requerimientos, peticiones y otras comunicaciones que el Usuario desee efectuar a la Empresa titular del Portal deberán realizarse por escrito y se 
+ que han sido correctamente realizadas cuando hayan sido recibidas en la siguiente dirección (indicar dirección de correo en la que se desean recibir las notificaciones).</p>
+
+              
+             </div>
+        </div>
+      </div>
+    </article>
+    </section>
+    <!--  End -->    
+
+
+    
+
+     <!-- Footer Section Start -->
+    <footer>          
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="social-icons wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="0.3s">
+              <ul>
+                <li class="facebook"><a href="https://www.facebook.com/terrakit.iot/"><i class="fa fa-facebook"></i></a></li>
+                <li class="twitter"><a href="https://twitter.com/terrakit_iot?lang=es"><i class="fa fa-twitter"></i></a></li>
+            
+              </ul>
+            </div>
+            <div class="site-info wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="0.3s">
+                <p>Mail: info@terrakit.es</p>
+		<p>Teléfono: +34 628 11 98 17</p>   
+		<p>Dirección: Parque Tecnológico de Andalucía, Calle de Marie Curie, 8</p>
+		
+		<a href="http://terrakit.es/terminos.html">Términos y condiciones /</a>
+		    
+		<a href="http://terrakit.es/Cookies.html">Política de privacidad y cookies</a>
+            </div>  
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Footer Section End --> 
+
+    <!-- Go To Top Link -->
+    <a href="#" class="back-to-top">
+      <i class="lnr lnr-arrow-up"></i>
+    </a>
+
+    <div id="loader">
+      <div class="spinner">
+        <div class="double-bounce1"></div>
+        <div class="double-bounce2"></div>
+      </div>
+    </div>    
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="js/jquery-min.js"></script>
+    <script src="js/tether.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/classie.js"></script>
+    <script src="js/mixitup.min.js"></script>
+    <script src="js/nivo-lightbox.js"></script>
+    <script src="js/owl.carousel.min.js"></script>    
+    <script src="js/jquery.stellar.min.js"></script>    
+    <script src="js/jquery.nav.js"></script>    
+    <script src="js/smooth-scroll.js"></script>    
+    <script src="js/smooth-on-scroll.js"></script>    
+    <script src="js/wow.js"></script>    
+    <script src="js/menu.js"></script>
+    <script src="js/jquery.vide.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>    
+    <script src="js/jquery.magnific-popup.min.js"></script>    
+    <script src="js/waypoints.min.js"></script>    
+    <script src="js/form-validator.min.js"></script>
+    <script src="js/contact-form-script.js"></script>     
+    <script src="js/main.js"></script>
+    
+  </body>
+</html>
+
