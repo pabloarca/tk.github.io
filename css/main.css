@@ -979,3 +979,31 @@ footer {
     -webkit-transform: scale(1);
   }
 }
+
+#fondo{
+  display:flex;
+  width:100%;
+  height:100px;
+  background:url(img/a.jpeg) center center no-repeat;
+  background-size:cover;
+  color:#fff;
+  align-items:center;
+  justify-content:center;
+}
+
+.red{
+  background-color:red;
+}
+
+.green{
+  background-color:#9fbe00;
+}
+
+.blue{
+  background-color:#53a7ea;
+}
+
+.flex-row{
+  display:flex;
+  justify-content:center;
+}
