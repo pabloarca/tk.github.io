@@ -16,6 +16,21 @@ a:hover,
 a:focus {
   color: #81E779;
 }
+
+.bg {
+    /* The image used */
+    background-image: url("img/a.jpeg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 a {
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
