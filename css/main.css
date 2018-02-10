@@ -364,7 +364,7 @@ a:not([href]):not([tabindex]):hover {
    ========================================================================== */
 #about {
   position: relative;
-  background: url("/..img/a.jpeg")fixed no-repeat;
+  background-image: url("/..img/a.jpeg")fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -408,7 +408,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #services {
   position: relative;
-  background: url("/..img/a.jpeg")fixed no-repeat;
+  background-image: url("/..img/a.jpeg")fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
