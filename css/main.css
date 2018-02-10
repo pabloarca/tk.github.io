@@ -560,6 +560,12 @@ a:not([href]):not([tabindex]):hover {
 /* ==========================================================================
     Estilo de la sección precio
     ========================================================================== */
+#pricing{
+	  background: url(../img/a.jpeg) fixed;
+          background-position: cover;
+	  position: relative;
+	}
+
 .pricing-table {
   padding: 20px 20px 40px 20px;
   margin: 0 auto;
