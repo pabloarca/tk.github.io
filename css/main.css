@@ -413,9 +413,7 @@ a:not([href]):not([tabindex]):hover {
    Estilo de la sección "nuestros valores"
    ========================================================================== */
 #features {
-   background: url(../img/b.png) fixed;
-  background-position: cover;
-  position: relative;
+   background: #fff;
 }
 #features .icon {
   display: inline-block;
