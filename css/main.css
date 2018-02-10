@@ -364,7 +364,7 @@ a:not([href]):not([tabindex]):hover {
    ========================================================================== */
 #about {
   position: relative;
-  background: #f2f2f2;
+  background-image:url("img/a.jpeg");
 }
 .item-boxes {
   text-align: center;
@@ -404,7 +404,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #services {
   position: relative;
-  background: #f2f2f2;
+  background-image:url("img/a.jpeg");
 }
 /* ==========================================================================
    Estilo de la sección "nuestros valores"
