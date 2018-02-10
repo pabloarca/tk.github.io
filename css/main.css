@@ -574,7 +574,7 @@ a:not([href]):not([tabindex]):hover {
   margin: 0 auto;
   margin-bottom: 30px;
   border: transparent;
-  background-color: #FFFFFF;
+  background-color: #9f2626;
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
