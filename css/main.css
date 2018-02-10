@@ -730,7 +730,7 @@ a:not([href]):not([tabindex]):hover {
   opacity: 1;
 }
 #contact {
-  background: #fff;
+  background: #f2f2f2;
 }
 #contact .contact-block {
   background: #fff;
@@ -751,11 +751,11 @@ a:not([href]):not([tabindex]):hover {
     Subscribe Style
     ========================================================================== */
 #subscribe form input {
-  background: #ffffff;
+  background: #f2f2f2;
   border: 1px solid #ddd;
   border-radius: 4px;
   box-shadow: none;
-  color: #fff;
+  color: #f2f2f2;
   height: 50px;
   padding: 0 20px;
   width: 100%;
