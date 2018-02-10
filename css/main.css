@@ -404,7 +404,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #services {
   position: relative;
-  background: #c13683;
+  background: #f2f2f2;
 }
 /* ==========================================================================
    Estilo de la sección "nuestros valores"
