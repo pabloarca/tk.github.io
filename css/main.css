@@ -363,9 +363,8 @@ a:not([href]):not([tabindex]):hover {
    estilo de la seccion características"
    ========================================================================== */
 #about {  
-  background: url(../img/a.jpeg) fixed;
-  background-position: cover;
   position: relative;
+  background: #f2f2f2;
 }
 .item-boxes {
   text-align: center;
@@ -404,10 +403,8 @@ a:not([href]):not([tabindex]):hover {
   box-shadow: 0 8px 48px 0 rgba(0, 0, 0, 0.15);
 }
 #services {
-  background: url(../img/a.jpeg) fixed;
-  background-position: cover;
-  position: relative;
-}
+	 position: relative;
+ 	 background: #f2f2f2;  
 }
 /* ==========================================================================
    Estilo de la sección "nuestros valores"
