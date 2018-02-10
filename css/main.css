@@ -729,7 +729,7 @@ a:not([href]):not([tabindex]):hover {
   opacity: 1;
 }
 #contact {
-  background: #f2f2f2;
+  background: #fff;
 }
 #contact .contact-block {
   background: #fff;
@@ -754,7 +754,7 @@ a:not([href]):not([tabindex]):hover {
   border: 1px solid #ddd;
   border-radius: 4px;
   box-shadow: none;
-  color: #999999;
+  color: #fff;
   height: 50px;
   padding: 0 20px;
   width: 100%;
