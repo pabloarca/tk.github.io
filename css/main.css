@@ -364,7 +364,7 @@ a:not([href]):not([tabindex]):hover {
    ========================================================================== */
 #about {
   position: relative;
-  background-image: url("/..img/a.jpeg")fixed no-repeat;
+  background-image: url("https://github.com/pabloarca/tk.github.io/blob/master/img/a.jpeg")fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -408,7 +408,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #services {
   position: relative;
-  background-image: url("/..img/a.jpeg")fixed no-repeat;
+  background-image: url("https://github.com/pabloarca/tk.github.io/blob/master/img/a.jpeg")fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;
@@ -419,7 +419,10 @@ a:not([href]):not([tabindex]):hover {
    Estilo de la sección "nuestros valores"
    ========================================================================== */
 #features {
-  background: #fff;
+   position: relative;
+  background: url("https://github.com/pabloarca/tk.github.io/blob/master/img/a.jpeg")fixed no-repeat;
+  background-size: cover; 
+  position: relative;
 }
 #features .icon {
   display: inline-block;
