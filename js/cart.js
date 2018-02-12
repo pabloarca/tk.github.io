@@ -91,7 +91,7 @@ function displayCart() {
         output += '<div class="card card-body cartc">' + '<p>' +
             '<span id="' + cart[i].name + '">' + cart[i].name + '</span>' +
             '<button id="minus">-</button>' +
-            ' ' + cart[i].count + ' шт.' +
+            ' ' + cart[i].count + ' unidades' +
             '<button id="plus">+</button>' +
             '<button id="delete">x</button>' +
             '</p>' + '</div>';
