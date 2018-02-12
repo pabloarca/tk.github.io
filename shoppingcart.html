@@ -78,14 +78,11 @@
 	<td>
 		<div class="quantity">			
       			
-     			 <button class="minus-btn" type="button" name="button">
-        			<img src="img/minus.png"/>
-      			</button>
-			<input type="text" name="name" value="1">
-			
-			<button class="plus-btn" type="button" name="button">
-        			<img src="img/plus.png"/>
-     			 </button>
+     			<form id='myform' method='POST' action='#'>
+			    <input type='button' value='-' class='qtyminus' field='quantity' />
+			    <input type='text' name='quantity' value='0' class='qty' />
+			    <input type='button' value='+' class='qtyplus' field='quantity' />
+			</form>	
     		</div>	      
 	      </td>
 	<td>
@@ -113,25 +110,7 @@
      </div>			      
 </div>
  <!-- SHOPPING CART FINISH-->  
-
-	
-	
-	
-	
-	
- <!-- NUEVO --> 	
-<form id='myform' method='POST' action='#'>
-    <input type='button' value='-' class='qtyminus' field='quantity' />
-    <input type='text' name='quantity' value='0' class='qty' />
-    <input type='button' value='+' class='qtyplus' field='quantity' />
-</form>	
- <!-- nuevo--> 
-	
-	
-	
-	
-	
-	
+		
 <!-- Footer Section Start -->
     <footer>          
       <div class="container">
