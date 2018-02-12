@@ -131,9 +131,8 @@
     "use strict";
     $('#loader').fadeOut();
    });
- });
 
-+/* CARRITO COMPRA
+/* CARRITO COMPRA
 +==============================================================*/
    
 $(‘.quantity’).on(‘click’, ‘.btn’, function(e) {
