@@ -57,56 +57,38 @@
  <!-- SHOPPING CART -->   
 
 <div class="container">
- <div class="table-responsive">            
-  <table class="table table-bordered">
-    <thead>
-      <tr>
-        <th>Producto</th>
-        <th>Especificaciones</th>
-	<th>Precio</th>
-        <th>Cantidad</th>
-	<th>Total</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-	   <img src="img/tk_lateral.png">
-          </td>
-        <td><p>Terrakit 1.0 blanco</p></td>
-        <td><p>145.00 €</p></td>
-	<td>
-		<div class="quantity">			
-      			
-     			<form id='myform' method='POST' action='#'>
-			    <input type='button' value='-' class='qtyminus' field='quantity' />
-			    <input type='text' name='quantity' value='0' class='qty' />
-			    <input type='button' value='+' class='qtyplus' field='quantity' />
-			</form>	
-    		</div>	      
-	      </td>
-	<td>
-		<div class="total-price">€549 </div>
-	      </td>
-      </tr>
-      
-    </tbody>
-  </table>
- </div>
-	<div class="section-header">          
-           <p class="section-subtitle wow fadeIn" data-wow-duration="1000ms" data-wow-delay="0.3s"><b>Elige método de pago:</b></p>
-	</div>	
-	
-	<div class="row justify-content-md-center">
-          <div class="col-md-8">
-		  
-             <div class="contents text-center">
-		<a href="http://terrakit.es/form.html">
-                  <img src="img/pago.png">
-                </a>  		
-	      </div>
-          </div>
+        <div class="row">
+            <div class="col cd">
+                <div class="card item">
+                    <div class="card-body text-center">
+                        <h4 class="card-title item_name">Тerrakit 1.0</h4>
+                        <p class="card-text">Precio:
+                            <span class="price">145</span>€</p>
+                        <button type="button" class="btn btn-primary add" id="id1">Añadir al carro</button>
+                    </div>
+                </div>
+
+            
+            </div>
         </div>
+
+        <div class="row">
+            <div class="col card">
+                <div class="card-body cart">Корзина</div>
+            </div>
+        </div>
+
+        <div class="row ft justify-content-end">
+            <div class="card mr-auto">
+                <div class="card-body">Итого:
+                    <span class="total"></span>$</div>
+            </div>
+            
+            <button class="btn btn-success pay" type="button">Siguiente</button>
+        </div>
+    </div>
+	
+	
      </div>			      
 </div>
  <!-- SHOPPING CART FINISH-->  
