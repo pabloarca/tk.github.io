@@ -55,7 +55,13 @@ jQuery(document).ready(function(){
     if(qty < 2){
     $(".qtyminus").addClass("qtyminusGrey");
     }
-    
-    //fill total cost of our shopping cart 
-        document.getElementById("cart_total").innerHTML=qty;
+    	
 });    
+
+function myFunction() {
+	var y = document.getElementById(qty).value;
+	var z = 145;
+	var x = y * z;
+	//fill total cost of our shopping cart 
+        document.getElementById("cart_total").innerHTML=x;
+        }
