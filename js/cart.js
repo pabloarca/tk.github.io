@@ -56,4 +56,6 @@ jQuery(document).ready(function(){
     $(".qtyminus").addClass("qtyminusGrey");
     }
     
+    //fill total cost of our shopping cart 
+        document.getElementById("cart_total").innerHTML=qty;
 });    
