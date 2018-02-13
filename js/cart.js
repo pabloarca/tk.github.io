@@ -58,7 +58,7 @@ jQuery(document).ready(function(){
     
 
     //fill total cost of our shopping cart 
-         document.getElementById("cart_total").innerHTML="4";
+         document.getElementById("cart_total").innerHTML=val(qty);
         	
 });    
 
