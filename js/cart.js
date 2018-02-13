@@ -56,9 +56,10 @@ jQuery(document).ready(function(){
     $(".qtyminus").addClass("qtyminusGrey");
     }
     
-
+	var z = qty;
+	var y = z * 145;
     //fill total cost of our shopping cart 
-         document.getElementById("cart_total").innerHTML=145*val(qty);
+         document.getElementById("cart_total").innerHTML=y;
         	
 });    
 
