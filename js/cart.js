@@ -4,7 +4,7 @@ var updateTotal = function() {
        var sum = 0;
     //Add each product price to total
     $(".product").each(function() {
-        var price = $(this).data('price');
+        var price = 145;
         var quantity = $('.quantityTxt', this).val();
    
         //Total for one product
