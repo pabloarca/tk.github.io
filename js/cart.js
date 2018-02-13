@@ -1,66 +1,48 @@
-jQuery(document).ready(function(){
-    // This button will increment the value
-    $('.qtyplus').click(function(e){
-    
-     		  var qty = $(".qty").val();
-    
-          if(qty => 1){
-	          $(".qtyminus").removeClass("qtyminusGrey");
-          }
-    
-    
-        // Stop acting like a button
-        e.preventDefault();
-        // Get the field name
-        fieldName = $(this).attr('field');
-        // Get its current value
-        var currentVal = parseInt($('input[name='+fieldName+']').val());
-        // If is not undefined
-        if (!isNaN(currentVal)) {
-            // Increment
-            $('input[name='+fieldName+']').val(currentVal + 1);
-        } else {
-            // Otherwise put a 0 there
-            $('input[name='+fieldName+']').val(1);
-        }
+var updateTotal = function() {
+ 
+    var sumtotal;
+       var sum = 0;
+    //Add each product price to total
+    $(".product").each(function() {
+        var price = $(this).data('price');
+        var quantity = $('.quantityTxt', this).val();
+   
+        //Total for one product
+        var subtotal = price*quantity;
+        //Round to 2 decimal places.
+        subtotal = subtotal.toFixed(2);        
+        //Display subtotal in HTML element
+        $('.productTotal', this).html(subtotal);
+
     });
-    // This button will decrement the value till 0
-    $(".qtyminus").click(function(e) {
+    // total
+       $('.productTotal').each(function() {
+        sum += Number($(this).html());
+    }); 
     
-    		  var qty = $(".qty").val();
-    
-          if(qty <= 2){
-          $(".qtyminus").addClass("qtyminusGrey");
-          }
-    
-    
-        // Stop acting like a button
-        e.preventDefault();
-        // Get the field name
-        fieldName = $(this).attr('field');
-        // Get its current value
-        var currentVal = parseInt($('input[name='+fieldName+']').val());
-        // If it isn't undefined or its greater than 0
-        if (!isNaN(currentVal) && currentVal > 1) {
-            // Decrement one
-            $('input[name='+fieldName+']').val(currentVal - 1);
-        } else {
-            // Otherwise put a 0 there
-            $('input[name='+fieldName+']').val(1);
-        }
-    });
-    
-    var qty = $(".qty").val();
-    
-    if(qty < 2){
-    $(".qtyminus").addClass("qtyminusGrey");
-    }
-    
-	var z = qty;
-	var y = z * 145;
-    //fill total cost of our shopping cart 
-         document.getElementById("cart_total").innerHTML=y;
-        	
-});    
+        
+
+    $('#sum').html(sum.toFixed(2));
+};
+
+//Update total when quantity changes
+$(".product .quantityTxt").keyup(function() {
+    updateTotal();
+});
+
+//Update totals when page first loads
+updateTotal();
+
+// set this from local
+    $('span.productTotal').each(function() {
+        $(this).before("&euro;")
+    }); 
+
+// unit price
+   $('.product p').each(function() {
+       var $price = $(this).parents("div").data('price');
+      $(this).before($price);
+    }); 
+
 
 
