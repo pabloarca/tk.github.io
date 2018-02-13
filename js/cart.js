@@ -57,8 +57,8 @@ jQuery(document).ready(function(){
     }
     
 
-    document.getElementById("cart_total").innerHTML=qty;
-	
+    //fill total cost of our shopping cart 
+         document.getElementById("cart_total").innerHTML=qty;
         	
 });    
 
