@@ -78,14 +78,12 @@
 	<td>
 		<div class="quantity">			
       			
-     			 <button class="minus-btn" type="button" name="button">
-        			<img src="img/minus.png"/>
-      			</button>
-			<input type="text" name="name" value="1">
-			
-			<button class="plus-btn" type="button" name="button">
-        			<img src="img/plus.png"/>
-     			 </button>
+     			 
+			<form id='myform' method='POST' action='#' class="numbo">
+			    <input type='button' value='–' class='qtyminus' field='quantity' style="font-weight: bold;" />
+			    <input type='text' name='quantity' value='1' class='qty' style="margin-bottom: 0px !important"/>
+			    <input type='button' value='+' class='qtyplus' field='quantity' style="font-weight: bold;" />
+			</form>
     		</div>	      
 	      </td>
 	
