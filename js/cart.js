@@ -56,3 +56,4 @@ jQuery(document).ready(function(){
     $(".qtyminus").addClass("qtyminusGrey");
     }
     
+});    
