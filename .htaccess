@@ -1,4 +1,8 @@
-Header add Content-Type "application/json"
-Header add Access-Control-Allow-Methods "GET,HEAD,POST,PUT,DELETE,OPTIONS"
-Header add Access-Control-Allow-Headers "Auth-Token,Content-Type"
-Header add Access-Control-Allow-Origin "http://datosabiertos.malaga.eu/recursos/ambiente/limasa/da_envases-4326.geojson"
+<IfModule mod_rewrite.c>
+  Header add Access-Control-Allow-Origin: "http://datosabiertos.malaga.eu/recursos/ambiente/limasa/da_envases-4326.geojson"
+  Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
+  Header add Access-Control-Allow-Headers: "X-Requested-With, Content-Type"
+
+  RewriteEngine on
+  RewriteBase /
+</IfModule>
